@@ -1,0 +1,2 @@
+# iTradeML uses only the Python standard library by default.
+# Install optional extras (e.g., ccxt) manually when you need live exchange access.
