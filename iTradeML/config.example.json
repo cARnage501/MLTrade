@@ -1,0 +1,14 @@
+{
+  "api_key": "YOUR_BINANCE_API_KEY",
+  "api_secret": "YOUR_BINANCE_SECRET",
+  "timeframe": "1d",
+  "months": 6,
+  "symbols": [
+    "BTC/USDT", "ETH/USDT", "BNB/USDT", "XRP/USDT", "ADA/USDT", "DOGE/USDT",
+    "MATIC/USDT", "SOL/USDT", "DOT/USDT", "LTC/USDT", "SHIB/USDT", "AVAX/USDT",
+    "TRX/USDT", "LINK/USDT", "ATOM/USDT", "ETC/USDT", "XLM/USDT", "ALGO/USDT",
+    "VET/USDT", "FIL/USDT", "MANA/USDT", "SAND/USDT", "AXS/USDT", "THETA/USDT",
+    "XTZ/USDT"
+  ],
+  "data_dir": "data"
+}
